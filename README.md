@@ -1,6 +1,8 @@
 # Lab2
 Created flash Card which switches between showing the answer and the question depending on what object you click  
 
+<img src = "https://github.com/srafique98/Lab2/blob/master/Lab%2002%20GIF.gif" width=500><br>
+
 Required
  [X] Create New Project in Android Studio
  [X] Add a view for the front side of the flashcard to display the question
